@@ -30,3 +30,5 @@ For the experiments, the following samples were used:
 * RaasNet, as described in [22763_BA_Thesis_Dennis_Shushack_15703341.pdf](https://capuana.ifi.uzh.ch/publications/PDFs/22763_BA_Thesis_Dennis_Shushack_15703341.pdf)
 * [Ransomware-PoC](https://github.com/jimmy-ly00/Ransomware-PoC)
 * royal (MalwareBazaar SHA256 b442938f0ace23a30a0ad728ed07bcb01ffe341154f2c64a7b294c6f90066f22)
+
+The JMeter scripts to simulate benign behavior and the collected data are available in [this release](https://github.com/Cyber-Tracer/FS-MTD-Detection/releases/tag/MA_Robert_Oles).
