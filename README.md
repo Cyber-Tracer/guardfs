@@ -13,7 +13,7 @@ The models and defense system are in [Cyber-Tracer/FS-MTD-Detection](https://git
 For the experiments, the following samples were used:
 * DarkRadiation, as described in [21458_BA-Besken_14924609.pdf](https://capuana.ifi.uzh.ch/publications/PDFs/21458_BA-Besken_14924609.pdf)
 * [Babuk](https://github.com/Hildaboo/BabukRansomwareSourceCode.git)
-* BlackBasta (MalwareBazaar SHA256 800ba31611d4fdb098716a98cd5861dc197de0a0cf7e0cedf31d23cda8f29f49)
+* BlackBasta (MalwareBazaar SHA256 `800ba31611d4fdb098716a98cd5861dc197de0a0cf7e0cedf31d23cda8f29f49`)
 * BlackCat (MalwareBazaar SHA256 8a5216a6088dae2c99816b326fcf925f4afca40adec7080ca0f048206b0a84ee)
 * buhti (MalwareBazaar SHA256 5663eddf61b0e811a2178caa22d7668732d419c448a44bade7e062d0a286bcfd)
 * cia (MalwareBazaar SHA256 1b3ff5c542a05310b6e81728fd959b3805702e84dffdc86545a511d090b6624b)
